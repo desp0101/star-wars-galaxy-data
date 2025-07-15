@@ -1,0 +1,46 @@
+[
+  {
+    "id":"d95cbc5c-a8df-461b-940e-f7eddf9b5cfd",
+    "region":"Colonies"
+  },
+  {
+    "id":"7dcdb4d8-541a-4d7c-9bdc-03c95344750c",
+    "region":"Core Worlds"
+  },
+  {
+    "id":"a42045a3-c251-486c-840b-32df106f97e9",
+    "region":"Deep Core"
+  },
+  {
+    "id":"a075ac4a-39fb-430b-b65d-f6de26f42bbc",
+    "region":"Expansion Region"
+  },
+  {
+    "id":"95f96a90-ecf0-47ca-996d-a75e7c4f93ca",
+    "region":"Extragalactic"
+  },
+  {
+    "id":"28c58462-1e1f-4b30-b3ae-a62847db1022",
+    "region":"Hutt Space"
+  },
+  {
+    "id":"8398ffa3-3c0e-4683-9f9b-3ae284c00dc5",
+    "region":"Inner Rim"
+  },
+  {
+    "id":"be905051-1b5c-4063-a950-edc428d59545",
+    "region":"Mid Rim"
+  },
+  {
+    "id":"3673ec7f-4958-457e-baa0-1e57c162790f",
+    "region":"Outer Rim"
+  },
+  {
+    "id":"fc9fff3c-42f5-422b-b242-3cdeb00481cb",
+    "region":"Unknown Regions"
+  },
+  {
+    "id":"4773d202-01db-45bd-9af7-e2204cede872",
+    "region":"Wild Space"
+  }
+]
